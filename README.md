@@ -8,7 +8,7 @@
 از کاربران متفاوت ، بازخورد های مختلف درباره بازی هایشان بگیرند.
 
 
-### بخش فرانت اند سایت را من [محمد مرادی]("https://github.com/MrMohammadMoradi") و با استفاده از فریمورک [ReactcJS]("https://reactjs.org") نوشته شده و بخش بک اند آن با همکاری دوست خوبم [مجید راشدی پور]("https://github.com/MajidRashedipour") و با استفاده از فریمورک [جنگو]("https://www.djangoproject.com/") کدنویسی شده است.
+### بخش فرانت اند سایت را من [ محمد مرادی ](https://github.com/MrMohammadMoradi) و با استفاده از فریمورک [ReactcJS](https://reactjs.org) نوشته شده و بخش بک اند آن با همکاری دوست خوبم [ مجید راشدی پور ](https://github.com/MajidRashedipour)و با استفاده از فریمورک [جنگو](https://www.djangoproject.com/) کدنویسی شده است.
 
              <------------------#*#------------------>
 
@@ -23,4 +23,4 @@ A site where young game makers are supposed to display their ideas
 Get different feedback about their games from different users.
 
 
-### The front-end part of the site was written by me [Mohammad Moradi]("https://github.com/MrMohammadMoradi") and using the framework [ReactcJS]("https://reactjs.org") and the back part And it was coded in collaboration with my good friend [Majid Rashedipour]("https://github.com/MajidRashedipour") and using the [Django] framework("https://www.djangoproject.com/").
+### The front-end part of the site was written by me [Mohammad Moradi](https://github.com/MrMohammadMoradi) and using the framework [ReactcJS](https://reactjs.org) and the back part And it was coded in collaboration with my good friend [Majid Rashedipour](https://github.com/MajidRashedipour) and using the[Django](https://www.djangoproject.com/) framework.
