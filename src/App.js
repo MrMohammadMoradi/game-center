@@ -4,7 +4,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import 'bootstrap/dist/js/bootstrap';
 
-import Navbar from './Components/navbar';
+import Navbar from './Components/Header';
 
 function App() {
   return (
