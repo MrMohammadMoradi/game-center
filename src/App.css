@@ -1,4 +1,12 @@
 .App {
-  text-align: center;
+    text-align: center;
+
 }
 
+.navbar #search-text {
+    width: 250px;
+    border-radius: 15px;
+}
+.navbar #logo {
+    height: 18vh;
+}
