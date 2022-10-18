@@ -9,3 +9,15 @@
 }
 
 
+.Footer {
+    height: 250px;
+    color: white;
+    background: rgb(0, 66, 39);
+    margin-top: 25px;
+}
+
+.Footer .socialMedia a{
+    text-decoration: none;
+    color: rgb(112, 255, 253);
+    margin: 0 10px
+}
