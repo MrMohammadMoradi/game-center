@@ -6,6 +6,7 @@ import 'bootstrap/dist/js/bootstrap';
 
 import Navbar from './Components/Header';
 import GameCard from './Components/GameCard';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <header className="App-header">
         <Navbar/>
         <GameCard/>
+        <Footer/>
       </header>
     </div>
   );
