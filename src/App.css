@@ -34,3 +34,11 @@
     height: 85vh;
     text-align: center;
 }
+.HomePage .gamePopularList {
+    justify-content: space-evenly;
+    border-radius: 12px;
+}
+
+.GameCard {
+    margin: 15px 0;
+}
